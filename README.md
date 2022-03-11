@@ -1,7 +1,8 @@
 # Welcome to StackEdit!
 
 # Langara-CPSC-4800-W01-assignment3
-##Repo for Langara CPSC-4800-W01 Course Assignment 3
+
+Repo for Langara CPSC-4800-W01 Course Assignment 3
 
 This is a  repo for Assignment 3 for  Langara CPSC-4800-W01 Course
 
